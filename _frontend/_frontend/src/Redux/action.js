@@ -1,0 +1,1 @@
+export const btnChange = (name)=>({type:'CHANGE_ACTIVE_BTN',payload:name})
